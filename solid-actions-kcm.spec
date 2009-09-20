@@ -2,7 +2,7 @@
 Name:           solid-actions-kcm
 Version:        0.0
 Summary:        Edit and add Solid actions
-Release:        %mkrel 0.%svn.1
+Release:        %mkrel 0.%svn.2
 License:        GPL
 Group:          Graphical desktop/KDE
 URL:            http://websvn.kde.org/trunk/playground/base/solid-actions-kcm/
