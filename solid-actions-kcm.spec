@@ -36,3 +36,15 @@ rm -rf %buildroot
 %clean
 rm -rf %{buildroot}
 
+
+
+%changelog
+* Sun Sep 20 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.0-0.912203.2mdv2010.0
++ Revision: 445141
+- rebuild
+
+* Sat Jan 17 2009 Nicolas Lécureuil <neoclust@mandriva.org> 0.0-0.912203.1mdv2009.1
++ Revision: 330385
+- import solid-actions-kcm
+
+
