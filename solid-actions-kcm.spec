@@ -8,6 +8,7 @@ Group:          Graphical desktop/KDE
 URL:            https://websvn.kde.org/trunk/playground/base/solid-actions-kcm/
 Source0:        %name-%version.%svn.tar.bz2
 BuildRoot:      %_tmppath/%name-%version-%release-buildroot
+BuildRequires:	make
 BuildRequires:  kdelibs4-devel
 
 %description
